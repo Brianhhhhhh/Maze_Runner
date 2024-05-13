@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : MazeRunner
+Version: U-2022.12-SP4
+Date   : Mon Dec 11 11:23:13 2023
+****************************************
+
+Library(s) Used:
+
+    saed32lvt_tt0p85v25c (File: /cae/apps/data/saed32_edk-2022/lib/stdcell_lvt/db_nldm/saed32lvt_tt0p85v25c.db)
+
+Number of ports:                           31
+Number of nets:                          4663
+Number of cells:                         3811
+Number of combinational cells:           2983
+Number of sequential cells:               808
+Number of macros/black boxes:               0
+Number of buf/inv:                        376
+Number of references:                      61
+
+Combinational area:               8282.298788
+Buf/Inv area:                      586.056079
+Noncombinational area:            5618.615672
+Macro/Black Box area:                0.000000
+Net Interconnect area:            2941.317469
+
+Total cell area:                 13900.914460
+Total area:                      16842.231930
+1
